@@ -25,7 +25,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", serif;
+  font-family: "Lora", serif;
 }
 
 /*--------------------------------------------------------------
@@ -427,7 +427,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: #3a3939;
-  font-family: "Poppins", sans-serif;
+  font-family: "Lora", sans-serif;
 }
 #hero h1 span {
   color: #8178AB;
@@ -677,7 +677,7 @@ section {
 }
 .about:before {
   content: "";
-  background: rgba(250, 250, 250, 0.8);
+  background: rgba(250, 250, 250, 0.9);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -936,7 +936,7 @@ section {
 }
 .events::before {
   content: "";
-  background-color: rgba(250, 250, 250, 0.8);
+  background-color: rgba(250, 250, 250, 0.9);
   position: absolute;
   top: 0;
   right: 0;
@@ -959,7 +959,7 @@ section {
   padding: 30px;
 }
 .events .event-item {
-  color: #828282;
+  color: #626262;
 }
 .events .event-item h3 {
   font-weight: 600;
